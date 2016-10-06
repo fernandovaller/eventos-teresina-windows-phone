@@ -1,0 +1,65 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="ExemploServices.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+
+
+    <phone:PhoneApplicationPage.Resources>
+        <DataTemplate x:Key="ListaPadrao">
+
+            <StackPanel Orientation="Horizontal" Margin="10">
+
+                <!--<Ellipse Width="50" Height="50" Fill="YellowGreen" Margin="10"></Ellipse>-->
+                <!--<Image Name="ImgEvento" Source="{Binding Image}" Width="80" Height="80" ></Image>-->
+
+                <StackPanel Height="auto" Width="480">
+                    <TextBlock FontSize="30" 
+                               FontWeight="Bold" 
+                               Text="{Binding Nome}" 
+                               TextWrapping="Wrap" ></TextBlock>
+                    <TextBlock Text="{Binding Data}"></TextBlock>                    
+                </StackPanel>
+
+                <!--<Button Name="btMais" Click="btMais_Click">+</Button>-->
+
+            </StackPanel>
+
+        </DataTemplate>
+    </phone:PhoneApplicationPage.Resources>
+
+
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <TextBlock Text="{Binding Path=LocalizedResources.KEY_TITLE, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0"/>
+            <TextBlock Text="{Binding Path=LocalizedResources.KEY_PAGE, Source={StaticResource LocalizedStrings}}" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>                      
+        </StackPanel>
+
+        <ListBox Name="lstContatos" 
+                 ItemTemplate="{StaticResource ListaPadrao}" 
+                 Grid.Row="1"
+                 SelectionChanged="lstContatos_SelectionChanged"
+                 Width="auto"></ListBox>
+
+    </Grid>
+
+
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,74 @@
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\ExemploServices.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\ExemploServices.pdb
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\resources.pri
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\AppxManifest.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\ExemploServices.build.appxrecipe
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\AppManifest.xaml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\Bin\Debug\ExemploServices_Debug_AnyCPU.xap
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\App.g.cs
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\MainPage.g.cs
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\ExemploServices.g.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\ExemploServices.Resources.AppResources.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\ExemploServices.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\ExemploServices.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\ExemploServices.pdb
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\priconfig.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\priconfig.xml.intermediate
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\layout.resfiles
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\layout.resfiles.intermediate
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\resources.resfiles
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\resources.resfiles.intermediate
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\pri.resfiles
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\pri.resfiles.intermediate
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\qualifiers.txt
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\ProjectArchitectures.txt
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\MDILProjectFiles.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Aula01\ExemploServices\obj\Debug\XapCacheFile.xml
+D:\Visual Studio\ExemploServices\Bin\Debug\Assets\ApplicationIcon.png
+D:\Visual Studio\ExemploServices\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Visual Studio\ExemploServices\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Visual Studio\ExemploServices\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Visual Studio\ExemploServices\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Visual Studio\ExemploServices\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Visual Studio\ExemploServices\Bin\Debug\ExemploServices.dll
+D:\Visual Studio\ExemploServices\Bin\Debug\ExemploServices.pdb
+D:\Visual Studio\ExemploServices\Bin\Debug\resources.pri
+D:\Visual Studio\ExemploServices\Bin\Debug\AppxManifest.xml
+D:\Visual Studio\ExemploServices\Bin\Debug\ExemploServices.build.appxrecipe
+D:\Visual Studio\ExemploServices\Bin\Debug\Properties\WMAppManifest.xml
+D:\Visual Studio\ExemploServices\Bin\Debug\AppManifest.xaml
+D:\Visual Studio\ExemploServices\Bin\Debug\ExemploServices_Debug_AnyCPU.xap
+D:\Visual Studio\ExemploServices\obj\Debug\App.g.cs
+D:\Visual Studio\ExemploServices\obj\Debug\MainPage.g.cs
+D:\Visual Studio\ExemploServices\obj\Debug\ExemploServices.g.resources
+D:\Visual Studio\ExemploServices\obj\Debug\ExemploServices.Resources.AppResources.resources
+D:\Visual Studio\ExemploServices\obj\Debug\ExemploServices.csproj.GenerateResource.Cache
+D:\Visual Studio\ExemploServices\obj\Debug\ExemploServices.dll
+D:\Visual Studio\ExemploServices\obj\Debug\ExemploServices.pdb
+D:\Visual Studio\ExemploServices\obj\Debug\priconfig.xml
+D:\Visual Studio\ExemploServices\obj\Debug\priconfig.xml.intermediate
+D:\Visual Studio\ExemploServices\obj\Debug\layout.resfiles
+D:\Visual Studio\ExemploServices\obj\Debug\layout.resfiles.intermediate
+D:\Visual Studio\ExemploServices\obj\Debug\resources.resfiles
+D:\Visual Studio\ExemploServices\obj\Debug\resources.resfiles.intermediate
+D:\Visual Studio\ExemploServices\obj\Debug\pri.resfiles
+D:\Visual Studio\ExemploServices\obj\Debug\pri.resfiles.intermediate
+D:\Visual Studio\ExemploServices\obj\Debug\qualifiers.txt
+D:\Visual Studio\ExemploServices\obj\Debug\qualifiers.txt.intermediate
+D:\Visual Studio\ExemploServices\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual Studio\ExemploServices\obj\Debug\ProjectArchitectures.txt
+D:\Visual Studio\ExemploServices\obj\Debug\MDILProjectFiles.xml
+D:\Visual Studio\ExemploServices\obj\Debug\XapCacheFile.xml
+D:\Visual Studio\ExemploServices\obj\Debug\Page2.g.cs
+D:\Visual Studio\ExemploServices\Bin\Debug\pt-BR\ExemploServices.resources.dll
+D:\Visual Studio\ExemploServices\obj\Debug\ExemploServices.Resources.AppResources.pt-BR.resources
+D:\Visual Studio\ExemploServices\obj\Debug\pt-BR\ExemploServices.resources.dll

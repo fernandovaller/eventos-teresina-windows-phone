@@ -1,0 +1,26 @@
+﻿<xapCache source="D:\Visual Studio\ExemploServices\Bin\Debug\ExemploServices_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="05/10/2016 16:28:03">
+  <file source="D:\Visual Studio\ExemploServices\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="05/10/2016 16:28:01" />
+  <file source="D:\Visual Studio\ExemploServices\obj\Debug\ExemploServices.dll" archivePath="ExemploServices.dll" lastWriteTime="05/10/2016 16:28:00" />
+  <file source="D:\Visual Studio\ExemploServices\obj\Debug\pt-BR\ExemploServices.resources.dll" archivePath="pt-BR\ExemploServices.resources.dll" lastWriteTime="05/10/2016 16:28:00" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\no-img.png" archivePath="Assets\no-img.png" lastWriteTime="05/10/2016 12:17:04" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="25/09/2016 16:27:54" />
+  <file source="D:\Visual Studio\ExemploServices\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="04/10/2016 22:37:47" />
+  <file source="D:\Visual Studio\ExemploServices\IconImage.png" archivePath="IconImage.png" lastWriteTime="04/10/2016 21:43:11" />
+  <file source="D:\Visual Studio\ExemploServices\SmallIconImage.png" archivePath="SmallIconImage.png" lastWriteTime="04/10/2016 21:43:03" />
+  <file source="D:\Visual Studio\ExemploServices\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="04/10/2016 22:37:47" />
+  <file source="D:\Visual Studio\ExemploServices\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="05/10/2016 16:28:03" />
+  <file source="D:\Visual Studio\ExemploServices\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="05/10/2016 16:28:02" />
+</xapCache>
