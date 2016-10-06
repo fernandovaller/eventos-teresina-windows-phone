@@ -3,6 +3,8 @@ O App para Windows Phone Eventos Teresina consiste em uma lista de eventos da ci
 
 Definimos como escopo o consumo pelo aplicativo de uma lista predefinida de evento no formato XML e disponibilizada através do link http://fernandovaller.com/eventos.xml, sendo facilmente mudado para um WebService real (que apresente os campos utilizados pela aplicação:  nome, data, destaque, imagem);
 
+![telas](https://cloud.githubusercontent.com/assets/5489549/19152058/783fb03c-8ba6-11e6-82bc-193ffcfe4c02.jpg)
+
 #Requisitos e Recursos escolhidos
 1.	Deve ter o tile principal e ícone personalizados. (Atendido)
 2.	Deve suportar os idiomas Inglês e Português. (Atendido)
@@ -26,6 +28,7 @@ Após baixar os evento e atualizar do DB é chamado o método para carregar os e
 Ao selecionar um evento presente na lista, é aberta uma nova página onde é possível ver mais informações do evento, como a imagem, o nome e o texto de destaque.
 
 #Demonstração
+
 https://www.youtube.com/watch?v=bSdHVhIJ7N4
 
 https://www.youtube.com/watch?v=u4Opk1TKEUg
